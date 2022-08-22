@@ -1,0 +1,22 @@
+.DS_Store
+BrcVxjEjNY
+__pycache__/
+ai.wav
+combine.ipynb
+dashboardV1.py
+dashboardV2.py
+dashboardV3.py
+helper.py
+import argparse.py
+load_model.ipynb
+pa_stable_v190700_20210406.tgz
+portaudio/
+real_time_.ipynb
+record_voice.ipynb
+recordings/
+recordvoice.py
+samples/
+speechtext.py
+streamlit-webrtc/
+tmp/
+speech_app/Dockerfile
